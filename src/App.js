@@ -8,7 +8,15 @@ function App() {
       <header className="App-header">
         
         
-        <Weather/>
+        <Weather />
+         <footer>
+        <a
+          href="https://github.com/AnnaMariaKot/reactw4hmwrk"
+          target="_blank"
+          >Open-source code</a
+        >
+        , by Anna-Maria Kotskieva
+      </footer>
         
         
       </header>

@@ -93,3 +93,8 @@ p .active:hover {
 .description {
   color: white;
 }
+
+footer {
+  text-align: center;
+  font-size: 15px;
+}
